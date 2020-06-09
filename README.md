@@ -33,7 +33,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 ## Results <a name = "results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
+The main findings of the code can be found at the post available [here](https://medium.com/@kushadhvaryu/4-things-to-keep-in-mind-before-relocating-for-a-job-as-a-developer-e2ec2d6f7865)
 
 ## Licensing, Authors, Acknowledgements <a name = "licensing"></a>
 
