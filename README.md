@@ -1,20 +1,24 @@
 # Relocating for a job as a Developer
 
-Writing a Data Scientist Blog Post
+Writing a Data Scientist Blog Post for Udacity Data Scientist Nanodegree
 
-## Table of Contents:
+## Table of Contents
 
-- Installations
-- Project Motivation
-- File Descriptions
-- How to Interact with my project
-- Licensing, Authors and Acknowledgements.
+1. [Installations](#installations)
+2. [Project Motivation](#projectmotivation)
+3. [File Descriptions](#filedescriptions)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-## Installations
+## Installations <a name = "installations"></a>
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## Project Motivation
+If these libraries are not already installed on your device you can install them easily
+
+You will need to download Stackoverflow’s 2017 Annual Developer Survey and put in specific folders. You can find the data to download [here](https://insights.stackoverflow.com/survey). </br>
+
+## Project Motivation <a name = "projectmotivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
@@ -23,14 +27,14 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 - Are the developers really satisfied with their jobs and career in the West?
 - Should the developers need to develop new skills to get a job in either the West or the East?
 
-## File Descriptions
+## File Descriptions <a name = "filedescriptions"></a>
 
-The notebook available here showcases work related to the above questions.
+**Relocating for a job as a Developer.ipynb**: Notebook containing the exploratory data analysis to answer the above questions. </br>
 
-## Results
+## Results <a name = "results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
 
-## Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements <a name = "licensing"></a>
 
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
